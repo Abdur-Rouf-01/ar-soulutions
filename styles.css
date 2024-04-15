@@ -8,9 +8,12 @@ body {
 }
 
 .top-section {
-    display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.div-top-section {
+    display: flex;
 }
 
 .half-width {
