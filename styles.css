@@ -36,3 +36,14 @@ body {
     padding: 10px;
     border-radius: 10px;
 }
+
+
+.div-mid-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.div-mid-section {
+    display: flex;
+}
